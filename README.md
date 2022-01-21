@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mirateebali
+- 👀 I’m interested in DataSciences and everything related with data
+- 🌱 I’m currently learning and I'm always learning 
+- 💞️ I’m looking to collaborate on any analytical project 
+- 📫 You can reach me at mirateebali@outlook.com
